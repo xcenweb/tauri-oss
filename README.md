@@ -57,4 +57,4 @@ https://github.com/agmmnn/tauri-controls
 
 | WeChat | Telegram |
 | :----: | :----: |
-| ![](https://github.com/xcenweb/tauri-open/blob/main/image/wx.png?raw=true) | ![](https://github.com/xcenweb/tauri-open/blob/main/image/tg.jpg?raw=true) |
+| ![wx](https://github.moeyy.xyz/https://raw.githubusercontent.com/xcenweb/tauri-open/refs/heads/main/image/wx.png) | ![tg](https://github.moeyy.xyz/https://raw.githubusercontent.com/xcenweb/tauri-open/refs/heads/main/image/tg.jpg) |
