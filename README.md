@@ -1,8 +1,9 @@
-# Tauri Open
+
 Share tauri-based open source projects
 
 分享基于Tauri的开源项目
 
+------
 
 # 前言
 
