@@ -3,16 +3,18 @@ Share tauri-based open source projects
 
 分享基于Tauri的开源项目
 
+> 这是业余时间收集的一些在 GitHub 上基于 Tauri 的开源项目或教程，这是一个公益计划，但是我不确定能不能一直维护此仓库
+> 如果你觉得此存档帮助了你，欢迎`star`，欢迎`fork`。当然若你有好的想法，可以 [issue](https://github.com/xcenweb/tauri-open/issues/new) 或 pr ~
+
 ------
 
-# 前言
+## 目录
 
-业余时间收集了一些在GitHub上基于tauri的开源项目或教程，这是一个公益计划，旨在帮助 `初学者入门`
+...
 
-如果你觉得此存档帮助了你，欢迎`star`，欢迎`fork`。当然若你有好的想法，可以 [issue](https://github.com/xcenweb/tauri-open/issues/new) 或 pr ~
+------
 
-
-# 热门项目 (Tauri-v2)
+## 热门项目 (Tauri-v2)
 
 ## clash-verge-rev
 基于tauri的clash客户端
