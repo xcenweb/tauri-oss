@@ -38,8 +38,10 @@ https://github.com/Priler/jarvis
 
 ## Tauri 组件/插件
 
-### Tauri Controls
+### Tauri Controls ![stars](https://img.shields.io/github/stars/agmmnn/tauri-controls)
+
 原生风格的窗口控制组件，适用于 Tauri 2。支持 React, Solid, Vue, Svelte+Tailwind。
+
 https://github.com/agmmnn/tauri-controls
 
 ------
