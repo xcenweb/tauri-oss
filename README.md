@@ -9,14 +9,15 @@ Share tauri-based open source projects
 
 ## 目录
 
-- Tauri v2 项目
-- Tauri v1 项目
+- Tauri 项目
 - Tauri 组件/插件
 - Tauri 教程/文档
 
 ------
 
-## Tauri v2 项目
+## 基于Tauri的项目
+
+以下未注明的均为`Tauri v2`项目
 
 ### clash-verge-rev ![stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev)
 
@@ -43,11 +44,6 @@ https://github.com/Priler/jarvis
 自行搭建属于你的RustDesk服务器,所有的一切都是免费且开源的 
 
 https://github.com/rustdesk/rustdesk-server
-
-------
-
-## Tauri v1 项目
-
 
 ------
 
