@@ -36,6 +36,13 @@ https://github.com/Priler/jarvis
 原生风格的窗口控制组件，适用于 Tauri 2。支持 React, Solid, Vue, Svelte+Tailwind。
 https://github.com/agmmnn/tauri-controls
 
+------
+
+## tauri 教程/文档
+
+
+------
+
 # TODO
 
 - [ ] i10n (English...)
