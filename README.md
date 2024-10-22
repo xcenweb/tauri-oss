@@ -1,6 +1,6 @@
 Share tauri-based open source projects
 
-分享基于Tauri的开源项目
+收集与分享：基于Tauri的开源项目
 
 > 这是业余时间收集的一些在 GitHub 上基于 Tauri 的开源项目或教程，这是一个共创的公益计划
 > 如果你觉得在此文档获得了帮助，欢迎`star`，欢迎`fork`。当然若你有好的想法，可以 [issue](https://github.com/xcenweb/tauri-open/issues/new) 或 pr ~
