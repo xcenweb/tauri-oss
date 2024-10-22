@@ -45,6 +45,12 @@ https://github.com/Priler/jarvis
 
 https://github.com/rustdesk/rustdesk-server
 
+### chatai desktop
+
+非官方ChatGPT桌面应用程序，适用于Mac和Windows Menubar，使用Tauri&Rust
+
+https://github.com/sonnylazuardi/chat-ai-desktop
+
 ------
 
 ## Tauri 组件/插件
