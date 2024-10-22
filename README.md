@@ -7,7 +7,7 @@ Share tauri-based open source projects
 
 ------
 
-## Tauri-v2 项目
+## Tauri v2 项目
 
 ### clash-verge-rev
 基于tauri的clash客户端
@@ -25,7 +25,7 @@ https://github.com/Priler/jarvis
 
 ------
 
-## Tauri-v1 项目
+## Tauri v1 项目
 
 
 ------
