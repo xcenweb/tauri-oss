@@ -9,7 +9,7 @@ Share tauri-based open source projects
 
 ## Tauri v2 项目
 
-### clash-verge-rev![stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev)
+### clash-verge-rev ![stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev)
 
 基于tauri的clash客户端
 
