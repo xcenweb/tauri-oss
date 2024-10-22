@@ -14,35 +14,36 @@ Share tauri-based open source projects
 
 ------
 
-## 热门项目 (Tauri-v2)
+## Tauri-v2 项目
 
-## clash-verge-rev
+### clash-verge-rev
 基于tauri的clash客户端
 https://github.com/clash-verge-rev/clash-verge-rev
 
 
-## GitButler
+### GitButler
 一个git客户端，它允许您同时处理多个分支。
 https://github.com/gitbutlerapp/gitbutler
 
 
-## JARVIS Voice Assistant
+### JARVIS Voice Assistant
 声音助手是作为一个实验而制作的，该实验使用神经网络处理诸如语音识别（STT）、语音合成（TTS）、唤醒词识别和自然语言理解（NLU）等功能。
 https://github.com/Priler/jarvis
 
+## 组件/插件
 
-## Tauri Controls
+### Tauri Controls
 原生风格的窗口控制组件，适用于 Tauri 2。支持 React, Solid, Vue, Svelte+Tailwind。
 https://github.com/agmmnn/tauri-controls
 
 
-# 热门项目 (Tauri-v1)
+# Tauri-v1 项目
 
 
 # TODO
 
-- [x] i10n (English...)
-- [x] website
+- [ ] i10n (English...)
+- [ ] website
 
 
 # 联系方式
