@@ -16,8 +16,10 @@ Share tauri-based open source projects
 https://github.com/clash-verge-rev/clash-verge-rev
 
 
-### GitButler
+### GitButler ![stars](https://img.shields.io/github/stars/gitbutlerapp/gitbutler)
+
 一个git客户端，它允许您同时处理多个分支。
+
 https://github.com/gitbutlerapp/gitbutler
 
 
