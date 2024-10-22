@@ -25,12 +25,12 @@ https://github.com/Priler/jarvis
 
 ------
 
-# Tauri-v1 项目
+## Tauri-v1 项目
 
 
 ------
 
-## 组件/插件
+## Tauri 组件/插件
 
 ### Tauri Controls
 原生风格的窗口控制组件，适用于 Tauri 2。支持 React, Solid, Vue, Svelte+Tailwind。
