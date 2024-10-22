@@ -38,6 +38,12 @@ https://github.com/gitbutlerapp/gitbutler
 
 https://github.com/Priler/jarvis
 
+### RustDesk Server Program ![stars](https://img.shields.io/github/stars/rustdesk/rustdesk-server)
+
+自行搭建属于你的RustDesk服务器,所有的一切都是免费且开源的 
+
+https://github.com/rustdesk/rustdesk-server
+
 ------
 
 ## Tauri v1 项目
