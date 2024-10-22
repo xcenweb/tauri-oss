@@ -23,8 +23,10 @@ https://github.com/clash-verge-rev/clash-verge-rev
 https://github.com/gitbutlerapp/gitbutler
 
 
-### JARVIS Voice Assistant
+### JARVIS Voice Assistant ![stars](https://img.shields.io/github/stars/Priler/jarvis)
+
 声音助手是作为一个实验而制作的，该实验使用神经网络处理诸如语音识别（STT）、语音合成（TTS）、唤醒词识别和自然语言理解（NLU）等功能。
+
 https://github.com/Priler/jarvis
 
 ------
