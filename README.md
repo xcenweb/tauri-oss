@@ -7,6 +7,15 @@ Share tauri-based open source projects
 
 ------
 
+## 目录
+
+- Tauri v2 项目
+- Tauri v1 项目
+- Tauri 组件/插件
+- Tauri 教程/文档
+
+------
+
 ## Tauri v2 项目
 
 ### clash-verge-rev ![stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev)
@@ -46,7 +55,7 @@ https://github.com/agmmnn/tauri-controls
 
 ------
 
-## tauri 教程/文档
+## Tauri 教程/文档
 
 
 ------
